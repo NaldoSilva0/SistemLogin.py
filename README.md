@@ -1,4 +1,4 @@
-Segue um **README.md** claro e organizado para esse projeto. Você pode copiar e colar direto no GitHub.
+
 
 ---
 
@@ -103,8 +103,5 @@ Projeto desenvolvido para fins de aprendizado em programação Python.
 
 ---
 
-Se quiser, posso:
 
-* ajustar o README para **nível profissional**
-* revisar seu código e sugerir melhorias
-* te ajudar a escrever **commits melhores** para o GitHub
+
